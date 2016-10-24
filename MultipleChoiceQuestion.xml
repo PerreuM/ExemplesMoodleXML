@@ -1,6 +1,9 @@
 <?xml version="1.0"?>
 <question type=multichoice>
 	<name>
+		<text>Fichier corrigé</text>
+	</name>
+	<name>
 		<text>Demo question à choix multiples</text>
 	</name>
 	<questiontext format=html>

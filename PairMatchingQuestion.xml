@@ -1,6 +1,9 @@
 <?xml version="1.0"?>
 <question type="matching">
 	<name>
+		<text>Fichier corrigé</text>
+	</name>
+	<name>
 		<text>Demo question d'appariement</text>
 	</name>
 	<questiontext format="html">
